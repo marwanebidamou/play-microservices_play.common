@@ -3,7 +3,7 @@ Common libraries used by Play Economy services.
 
 ## Create and publish package
 ```powershell
-$version="1.0.8"
+$version="1.0.9"
 $owner="play-microservice"
 $gh_pat="[GITHUB ACCESS TOKEN HERE]"
 $nuget_src_name="Play Github"
